@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 ---
 
 ## About Me
@@ -56,6 +56,7 @@
 
 ![Kelly' Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kellybianca&bg_color=202020&hide_border=true&hide_title=true&line=9ed6fb&color=9ed6fb&area=true&area_color=9ed6fb&point=9ed6fb)
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kellybianca" alt="kellybianca" /></p>
 <!--
 **kellybianca/kellybianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
