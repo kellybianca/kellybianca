@@ -3,9 +3,9 @@
 
 ## About Me
 
-* I live in Alagoas.
-* Frontend web developer and computer science student. 
-* 🔭 I’m currently working on Centro de Inovação Edge.
+* 🌞 I live in Alagoas.
+* 👩🏼‍🎓 Frontend web developer and computer science student. 
+* 👩🏼‍💻 I’m currently working at OLX Brasil.
 
 
 ---
