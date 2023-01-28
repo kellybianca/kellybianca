@@ -4,7 +4,7 @@
 ## About Me
 
 * 🌞 I live in Alagoas.
-* 👩🏼‍🎓 Frontend web developer and computer science student. 
+* 👩🏼‍🎓 Frontend web developer and computer science graduated. 
 * 👩🏼‍💻 I’m currently working at OLX Brasil.
 
 
@@ -14,16 +14,18 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; -->
 ---
 
 ## Technologies
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
-![Vuetify](https://img.shields.io/badge/Vuetify-white?style=for-the-badge&logo=vuedotjs&logoColor=blue)&nbsp;
-![SASS](https://img.shields.io/badge/-sass-202020?style=for-the-badge&logo=sass)&nbsp;
+<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
+![Vuetify](https://img.shields.io/badge/Vuetify-white?style=for-the-badge&logo=vuedotjs&logoColor=blue)&nbsp; -->
+<!-- ![SASS](https://img.shields.io/badge/-sass-202020?style=for-the-badge&logo=sass)&nbsp; -->
+![React.js](https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&logo=react&logoColor=0081CB)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-FFFFFF?style=for-the-badge&logo=styled-components&logoColor=FFC0CB)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-202020?style=for-the-badge&logo=material-ui&logoColor=0081CB)&nbsp;
 
 ---
@@ -39,7 +41,8 @@
 ---
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Mac](https://img.shields.io/badge/-MacOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000)
+<!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; -->
 
 ## Contact
 
